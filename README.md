@@ -84,6 +84,12 @@ Değişikliklerinizi yapın ve commit edin.
 
 Dalınızı push edin ve bir Pull Request oluşturun.
 
+### 👥 Ekip (Team)
+Bu proje, IYACA Hackathon 2025 kapsamında aşağıdaki ekip tarafından geliştirilmiştir:
+* **Muhammet Emir Kılınç**
+* **Kürşat Hürkan Aydın**
+* **Ajla Frkic**
+
 📄 Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
